@@ -1,3 +1,9 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+# @LICENSE: This code is under MIT License.
+# @AUTHOR: AlirızaGövce
+
 import socket
 
 def scan_ports(ip_address):
